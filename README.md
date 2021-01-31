@@ -1,6 +1,6 @@
 # Object-detection-model
 Setup for CNN object detection model using compute canada MNIST servers
-
+* username@mist.scinet.utoronto.ca 
 <b> Note: </b> You must have a compute canada MNSIT account for access
 Accessing compute canada servers:
 
